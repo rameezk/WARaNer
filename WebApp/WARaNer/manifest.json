@@ -1,0 +1,13 @@
+{
+  "name": "WARaNer",
+  "author": "Rameez Khan",
+  "description": "WhatsApp Remote and Notifier",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "WARaNer-16.png", "128": "WARaNer-128.png" }
+}
